@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import { importRemote } from '@dream.mf/utilities';
+import { importRemote } from '@dream.mf/react';
 import Layout from "../../layout";
 import { DreamMFAuthGuard } from "@dream.mf/oidc";
 import PageLoader from "../../components/page-loader";

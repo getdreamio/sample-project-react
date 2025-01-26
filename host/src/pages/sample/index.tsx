@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import { useParams } from "react-router-dom";
-import { importRemote, ImportRemoteOptions } from '@dream.mf/utilities';
+import { importRemote } from '@dream.mf/react';
 import Layout from "../../layout";
 import PageLoader from "../../components/page-loader";
 import PageBreadcrumbs from "../../components/breadcrumb";

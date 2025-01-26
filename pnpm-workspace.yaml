@@ -3,3 +3,6 @@ packages:
   - remotes/home
   - remotes/sample
   - remotes/profile
+  - ../dreammf-packages/packages/dmf-bundlers
+  - ../dreammf-packages/packages/dmf-core
+  - ../dreammf-packages/packages/dmf-logging
